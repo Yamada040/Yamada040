@@ -154,3 +154,5 @@ const yamada = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Build%20clean.%20Ship%20fast.%20Play%20hard.%20%E2%9A%BD&fontSize=16&fontColor=ffffff&fontAlignY=70" width="100%" alt="footer" />
 </div>
+
+<!-- profile readme -->
