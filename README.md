@@ -70,16 +70,23 @@ const yamada = {
 
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yamada040&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamada040&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yamada040&theme=tokyonight" width="100%" alt="profile details" />
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yamada040&theme=tokyonight" alt="stats" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yamada040&theme=tokyonight" alt="most commit language" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yamada040&theme=tokyonight&hide_border=true" alt="streak" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yamada040&theme=tokyonight" alt="repos per language" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yamada040&theme=tokyonight&utcOffset=9" alt="productive time (JST)" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yamada040&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophy" />
+<img src="https://streak-stats.demolab.com/?user=Yamada040&theme=tokyonight&hide_border=true" alt="streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yamada040&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph" />
 
 </div>
 
@@ -103,6 +110,8 @@ const yamada = {
 
 <!-- リンク先は適宜書き換えてください -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yamada040)
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
 
 </div>
