@@ -2,25 +2,45 @@
 ============================================================
   GitHub プロフィール用 README
   配置先: リポジトリ「Yamada040/Yamada040」のルートに README.md として置く
-  （リポジトリ名を自分のユーザー名と完全一致させるとプロフィールに表示されます）
 ============================================================
 -->
 
 <!-- ===== Header: 波のバナー ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20%C3%97%20AI%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20profile%20%E2%9A%BD&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20%C3%97%20AI%20Developer%20%7C%20Football%20Lover&descSize=18&descAlignY=58" width="100%" alt="header" />
 </div>
 
 <!-- ===== タイピングアニメーション ヘッダー ===== -->
 <div align="center">
   <a href="https://github.com/Yamada040">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E9FF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Yamada+%F0%9F%91%8B;Frontend+Developer+with+Next.js+%26+React;Building+with+AI+%26+LLMs+%F0%9F%A4%96;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E9FF7&center=true&vCenter=true&width=620&lines=Hello%2C+I'm+Yamada+%F0%9F%91%8B;Frontend+Developer+with+Next.js+%26+React;Building+with+AI+%26+LLMs+%F0%9F%A4%96;Football+fan+off+the+keyboard+%E2%9A%BD;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yamada040&style=for-the-badge&color=6e9ff7&label=Profile+Views" alt="profile views" />
 </div>
 
 <br/>
 
-<!-- ===== About ===== -->
+<!-- ===== Intro ===== -->
+### 👋 Hi there, I'm Yamada
+
+A frontend developer building web applications with **Next.js** & **React**, and exploring **AI / LLM-powered products** 🤖.
+I like turning rough ideas into polished UIs and shipping things that people actually use.
+
+⚽ **Off the keyboard**, I'm a football fan — I love the beautiful game as much as a clean, well-built interface.
+Watching, playing, and the occasional late-night match: football keeps me sharp, just like a good refactor.
+
+**⚡ Tech Interests & Skills**
+- Next.js / React / TypeScript
+- AI / LLM Integration (Claude, Vercel AI SDK)
+- Frontend Architecture & UX
+- Always exploring new tools & frameworks
+
+<br/>
+
+<!-- ===== About (code block) ===== -->
 <div align="center">
 
 ### 🧑‍💻 About Me
@@ -33,7 +53,8 @@ const yamada = {
   stack: ["Next.js", "React", "TypeScript"],
   focus: ["AI / LLM Integration", "Web Applications"],
   currentlyLearning: "Agentic AI & RAG pipelines",
-  motto: "Always learning, always shipping 🚀",
+  hobbies: ["⚽ Football", "📚 Tech reading"],
+  motto: "Build clean. Ship fast. Play hard. 🚀",
 };
 ```
 
@@ -60,6 +81,21 @@ const yamada = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ===== 3D Contribution Graph ===== -->
+<!--
+  下の 3D グラフは GitHub Actions (.github/workflows/profile-3d.yml) が
+  profile-3d-contrib/ 配下に自動生成します。初回はアクション実行後に表示されます。
+-->
+<div align="center">
+
+### 🌳 My Contributions in 3D
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3d contribution graph" />
 
 </div>
 
@@ -93,10 +129,6 @@ const yamada = {
 <br/>
 
 <!-- ===== Contribution Snake ===== -->
-<!--
-  下のヘビアニメーションを動かすには、GitHub Actions のワークフローが必要です。
-  リポジトリに .github/workflows/snake.yml を追加してください（手順は README 説明欄を参照）。
--->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Yamada040/Yamada040/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
@@ -108,10 +140,10 @@ const yamada = {
 
 ### 🌐 Connect with me
 
-<!-- リンク先は適宜書き換えてください -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yamada040)
-[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/)
-[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/)
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/Yamada040)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/shutingstar)
+<!-- X はユーザー名が決まったらリンクを差し替えてください -->
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
 
 </div>
@@ -120,7 +152,5 @@ const yamada = {
 
 <!-- ===== Footer: 波のバナー ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Yamada040&style=for-the-badge&color=6e9ff7&label=Profile+Views" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Build%20clean.%20Ship%20fast.%20Play%20hard.%20%E2%9A%BD&fontSize=16&fontColor=ffffff&fontAlignY=70" width="100%" alt="footer" />
 </div>
