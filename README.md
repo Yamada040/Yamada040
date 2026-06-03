@@ -93,9 +93,9 @@ const yamada = {
 -->
 <div align="center">
 
-### 🌳 My Contributions in 3D
+### ⚽ My Contributions on the Pitch (3D)
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3d contribution graph" />
+<img src="./profile-3d-contrib/profile-football.svg" width="100%" alt="3d contribution graph (football pitch theme)" />
 
 </div>
 
@@ -154,5 +154,3 @@ const yamada = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Build%20clean.%20Ship%20fast.%20Play%20hard.%20%E2%9A%BD&fontSize=16&fontColor=ffffff&fontAlignY=70" width="100%" alt="footer" />
 </div>
-
-<!-- profile readme -->

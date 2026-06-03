@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-football.svg",
+  "backgroundColor": "#14532d",
+  "foregroundColor": "#ffffff",
+  "strongColor": "#ffffff",
+  "weakColor": "#a7c4a0",
+  "radarColor": "#ffffff",
+  "growingAnimation": true,
+  "contribColors": [
+    "#0a3d1f",
+    "#2d6a4f",
+    "#52b788",
+    "#b7e4c7",
+    "#ffffff"
+  ]
+}
