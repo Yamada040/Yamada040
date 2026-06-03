@@ -21,6 +21,11 @@
   <img src="https://komarev.com/ghpvc/?username=Yamada040&style=for-the-badge&color=6e9ff7&label=Profile+Views" alt="profile views" />
 </div>
 
+<!-- ===== Football scene (animated SVG) ===== -->
+<div align="center">
+  <img src="./assets/football-scene.svg" width="100%" alt="A football kicked into the goal on the pitch" />
+</div>
+
 <br/>
 
 <!-- ===== Intro ===== -->
@@ -60,6 +65,10 @@ const yamada = {
 
 <br/>
 
+<div align="center">
+  <img src="./assets/pitch-divider.svg" width="100%" alt="pitch divider" />
+</div>
+
 <!-- ===== Tech Stack ===== -->
 <div align="center">
 
@@ -86,6 +95,10 @@ const yamada = {
 
 <br/>
 
+<div align="center">
+  <img src="./assets/pitch-divider.svg" width="100%" alt="pitch divider" />
+</div>
+
 <!-- ===== 3D Contribution Graph ===== -->
 <!--
   下の 3D グラフは GitHub Actions (.github/workflows/profile-3d.yml) が
@@ -100,6 +113,10 @@ const yamada = {
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="./assets/pitch-divider.svg" width="100%" alt="pitch divider" />
+</div>
 
 <!-- ===== GitHub Stats ===== -->
 <div align="center">
@@ -134,6 +151,10 @@ const yamada = {
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="./assets/pitch-divider.svg" width="100%" alt="pitch divider" />
+</div>
 
 <!-- ===== Connect ===== -->
 <div align="center">

@@ -1,17 +1,17 @@
 {
   "type": "normal",
   "fileName": "profile-football.svg",
-  "backgroundColor": "#14532d",
+  "backgroundColor": "#0d1a12",
   "foregroundColor": "#ffffff",
   "strongColor": "#ffffff",
-  "weakColor": "#a7c4a0",
-  "radarColor": "#ffffff",
+  "weakColor": "#9aa7a0",
+  "radarColor": "#ffd54f",
   "growingAnimation": true,
   "contribColors": [
-    "#0a3d1f",
-    "#2d6a4f",
-    "#52b788",
-    "#b7e4c7",
+    "#1c2b22",
+    "#2e7d32",
+    "#9ccc65",
+    "#ffee58",
     "#ffffff"
   ]
 }
